@@ -1,0 +1,31 @@
+S1: 3 row(s) in EUR (2,633,083.16) left untranslated — no rate disclosed by the auditor
+S2: 3 row(s) in EUR (8,073,158.60) left untranslated — no rate disclosed by the auditor
+S3: 4 row(s) in EUR (4,204,182.57) left untranslated — no rate disclosed by the auditor
+B2: 2 row(s) in EUR (34,209,389.97) left untranslated — no rate disclosed by the auditor
+B3: 1 row(s) in EUR (11,584,857.12) left untranslated — no rate disclosed by the auditor
+B5: no ownership table and no explicit records; related inferred from retainer rows: ['Syrdarya Capital LLP']
+B5: 5 row(s) in EUR (434,026,948.74) left untranslated — no rate disclosed by the auditor
+F2: 2 row(s) in EUR (795,488.54) left untranslated — no rate disclosed by the auditor
+F3: no ownership table and no explicit records; related inferred from retainer rows: ['Syrdarya Capital LLP']
+F3: 3 row(s) in EUR (1,999,262.83) left untranslated — no rate disclosed by the auditor
+F3/6.1: formula UNRECOGNISED and no ANTHROPIC_API_KEY — the fallback that exists for exactly this case is switched off
+F3/6.1: formula UNRECOGNISED (Лимит капитальных затрат на уровне группы)
+G1: 1 row(s) in EUR (2,919,906.33) left untranslated — no rate disclosed by the auditor
+G3: 4 row(s) in EUR (2,687,550.89) left untranslated — no rate disclosed by the auditor
+H2: 2 row(s) in EUR (10,749,223.98) left untranslated — no rate disclosed by the auditor
+H3: 5 row(s) in EUR (154,356,798.43) left untranslated — no rate disclosed by the auditor
+H4: no ownership table and no explicit records; related inferred from retainer rows: ['Zhetysu Capital L.L.P.']
+H4: 2 row(s) in EUR (5,473,192.40) left untranslated — no rate disclosed by the auditor
+H5: 1 row(s) in EUR (8,760,886.52) left untranslated — no rate disclosed by the auditor
+J3: 2 row(s) in EUR (7,122,321.25) left untranslated — no rate disclosed by the auditor
+J4: no ownership table and no explicit records; related inferred from retainer rows: []
+J6/6.1: formula UNRECOGNISED and no ANTHROPIC_API_KEY — the fallback that exists for exactly this case is switched off
+J6/6.1: formula UNRECOGNISED (Лимит капитальных затрат Группы за пределами Заёмщика)
+J6/6.3: formula UNRECOGNISED and no ANTHROPIC_API_KEY — the fallback that exists for exactly this case is switched off
+J6/6.3: formula UNRECOGNISED (Maximum Aggregate Financing and Occupancy Charges)
+KC: 2 row(s) in EUR (4,273,019.96) left untranslated — no rate disclosed by the auditor
+X1: 1 row(s) in EUR (1,571,427.03) left untranslated — no rate disclosed by the auditor
+X2: 4 row(s) in EUR (5,750,796.01) left untranslated — no rate disclosed by the auditor
+X3: 4 row(s) in EUR (9,889,983.53) left untranslated — no rate disclosed by the auditor
+X3/6.3: formula UNRECOGNISED and no ANTHROPIC_API_KEY — the fallback that exists for exactly this case is switched off
+X3/6.3: formula UNRECOGNISED (Максимальное отношение капитальных затрат Группы к EBITDA Заёмщика)
